@@ -1,7 +1,7 @@
 import { jueJinSvg } from '../../tools/icon_path';
 
 export default {
-  title: '和光同尘',
+  title: '标题',
   description: 'Just playing around.',
   base: '/blog/',
   themeConfig: {
