@@ -10,7 +10,7 @@ export default {
     nav: [
       { text: 'Guide', link: '/guide/' },
       { text: 'GuideTest', link: '/guide/test' },
-      { text: 'gitee', link: 'https://gitee.com/geeksdidi' },
+      { text: 'github', link: 'https://github.com/haloleve' },
       {
         text: 'Drop Menu',
         items: [
@@ -30,7 +30,7 @@ export default {
       },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://gitee.com/geeksdidi' },
+      { icon: 'github', link: 'https://github.com/haloleve' },
       {
         icon: {
           svg: jueJinSvg,
@@ -51,13 +51,13 @@ export default {
           ],
         },
         {
-          text: 'vue教程',
+          text: '其他',
           collapsible: true,
           collapsed: true,
           items: [
             {
-              text: 'pina和vuex',
-              link: '/articles/pina和vuex',
+              text: 'mock.js',
+              link: '/articles/mock',
             },
           ],
         },

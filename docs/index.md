@@ -13,17 +13,17 @@ hero:
       text: 快来快来
       link: /articles/index
     - theme: alt
-      text: View on Gitee
-      link: https://gitee.com/geeksdidi
+      text: View on Github
+      link: https://github.com/haloleve
 
 features:
   - icon: ⚡️
     title: 这是一个闪电图标
-    details: wawawa
-  - icon:  
+    details: flash
+  - icon:  ⚡️
     title: 这是一个手掌图标
     details: good...
-  - icon:  ️
+  - icon:  ⚡️️
     title: 这是一个修理图标
-    details: cocococococo
+    details: cool
 ---
