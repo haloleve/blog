@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.e53abb29.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/code/deepclone.md"}'),c={name:"articles/code/deepclone.md"},s=a("p",null,"\u6DF1\u62F7\u8D1D",-1),n=[s];function r(d,l,p,_,i,m){return o(),t("div",null,n)}const h=e(c,[["render",r]]);export{u as __pageData,h as default};
