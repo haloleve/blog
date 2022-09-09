@@ -10,7 +10,6 @@ export default {
     nav: [
       { text: '手册', link: '/guide/' },
       { text: '配置', link: '/config/' },
-      { text: 'github', link: 'https://github.com/haloleve' },
       {
         text: '其他',
         items: [
@@ -63,6 +62,10 @@ export default {
           ],
         },
       ],
+    },
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2019-present Evan You',
     },
   },
 };
